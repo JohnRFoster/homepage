@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "John R Foster"
   avatar : "/assets/images/HeadshotJohnFosterSmall.jpg"
-  bio    : "I am a PhD Candidate at Boston Univeristy studying ecological forecasting and tick-borne disease ecology."
+  bio    : "I am a PhD Candidate at Boston University studying ecological forecasting and tick-borne disease ecology."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
